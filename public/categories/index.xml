@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tanvi Jakkampudi</title>
+    <link>https://miscellanea.us/categories/</link>
+    <description>Recent content in Categories on Tanvi Jakkampudi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>hello@miscellanea.us (Miscellea.us)</managingEditor>
+    <webMaster>hello@miscellanea.us (Miscellea.us)</webMaster>
+    
+	<atom:link href="https://miscellanea.us/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
